@@ -1,0 +1,7 @@
+.build/
+.build-x86/
+.build-release/
+Backups/
+*.xcuserstate
+xcuserdata/
+.DS_Store
